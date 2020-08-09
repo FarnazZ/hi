@@ -4,11 +4,11 @@ Some customizations including cool aliases, zshrc, bashrc, screenrc, tmux.conf, 
 
 ## Install requirements
 
-Ubuntu: `~/hi/init/ubuntu`
+Ubuntu: `~/hi/init ubuntu`
 
-CentOS: `~/hi/init/centos`
+CentOS: `~/hi/init centos`
 
-MacOS: `~/hi/init/macos`
+MacOS: `~/hi/init macos`
 
 ## Usage
 
